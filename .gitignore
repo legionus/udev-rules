@@ -1,0 +1,7 @@
+*.d
+*.o
+udev-rules
+udev-rules-parser.c
+udev-rules-parser.h
+udev-rules-scanner.c
+udev-rules-scanner.h
